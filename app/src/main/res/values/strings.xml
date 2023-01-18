@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EziMart</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message">Message</string>
+    <string name="findProduct_hint">Click product to view location</string>
+
+    <string-array name="bankList">
+        <item>Maybank2u</item>
+        <item>CIMB Clicks</item>
+        <item>Public Bank</item>
+        <item>RHB Now</item>
+        <item>AmBank</item>
+        <item>MyBSN</item>
+        <item>Bank Rakyat</item>
+        <item>UOB</item>
+        <item>Affin Bank</item>
+        <item>Bank Islam</item>
+        <item>HSBC Online</item>
+        <item>Standard Chartered Bank</item>
+        <item>Kuwait Finance House</item>
+        <item>Bank Muamalat</item>
+        <item>OCBC Online</item>
+        <item>Hong Leong Connect</item>
+        <item>Agrobank</item>
+    </string-array>
+</resources>
